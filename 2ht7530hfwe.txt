@@ -5,7 +5,8 @@
       "title": "🎉 Welcome to the Mod!",
       "message": "Thanks for using AcuteBunny's Casting Mod!\n\nNew features are always being added. Check back here for updates!",
       "timestamp": 1679860800
-    }
+    },
+
     {
       "id": "new-feature-irc-chat",
       "title": "🚀 New Feature: IRC Chat!",
