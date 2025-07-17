@@ -1,1 +1,1 @@
-https://github.com/Cffrqe/AcuteBunny_ServerData/raw/refs/heads/main/CACHE_MD2.zip
+ANNOUNCEMENT: This is a daily test of the IRC announcement system, close this notification and continue as usual.
