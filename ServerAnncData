@@ -2,8 +2,8 @@
   "announcements": [
     {
       "id": "welcome-message-v1",
-      "title": "🎉 Welcome to the Mod!",
-      "message": "Thanks for using AcuteBunny's Casting Mod!\n\nNew features are always being added. Check back here for updates!",
+      "title": "Daily Announcement System",
+      "message": "Thanks for using AcuteBunny's Casting Mod!\n\nThis is a test of the IRC Announcement system, just close this notification and continue what you are doing.",
       "timestamp": 1679860800
     }
   ]
