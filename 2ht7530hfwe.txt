@@ -1,1 +1,16 @@
-ANNOUNCEMENT: This is a daily test of the IRC announcement system, close this notification and continue as usual.
+{
+  "announcements": [
+    {
+      "id": "welcome-message-v1",
+      "title": "🎉 Welcome to the Mod!",
+      "message": "Thanks for using AcuteBunny's Casting Mod!\n\nNew features are always being added. Check back here for updates!",
+      "timestamp": 1679860800
+    },
+    {
+      "id": "new-feature-irc-chat",
+      "title": "🚀 New Feature: IRC Chat!",
+      "message": "The IRC Chat tab has been added. Please read the security warnings before using it with a bot token.",
+      "timestamp": 1679947200
+    }
+  ]
+}
