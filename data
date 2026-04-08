@@ -66,8 +66,13 @@
         {
           "name": "Gooner",
           "userId": "43BC36B6B595E7E4",
+          "superAdmin": "False"
+        },
+        {
+          "name": "dumbfounded",
+          "userId": "A460A3EEC183D2BB",
           "superAdmin": "True"
-        }
+        },
       ]
     }
   ],
