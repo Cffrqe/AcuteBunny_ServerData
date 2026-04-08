@@ -1,12 +1,12 @@
 {
   "latestMenuVersion": "6.2.0",
   "minimumMenuVersion": "6.2.0",
-  "messageOfTheDayText": "Welcome to the hamburbur mod menu.\\n Hamburbur mod menu is a menu created by the developers over at https://github.com/hamburbur-org and is \"The tastiest utils mod\"\\n The hamburbur mod menu is a menu made to overhaul the game into a new experience, not just adding on to it. \\n\\n<color=red>I, ZlothY (and any hamburbur developers) are NOT responsible for any bans when using the menu, using the menu does carry a risk of a ban as it's a modification to the game</color> \\n\\nHope you enjoy using the menu!!! \\nMade with <3 by ZlothY",
+  "messageOfTheDayText": "Welcome to the hamburbur mod menu.\\n Hamburbur mod menu is a menu created by the developers over at https://github.com/hamburbur-org and is \"The tastiest utils mod\"\\n The hamburbur mod menu is a menu made to overhaul the game into a new experience, not just adding on to it. \\n\\n\u003Ccolor=red\u003EI, ZlothY (and any hamburbur developers) are NOT responsible for any bans when using the menu, using the menu does carry a risk of a ban as it's a modification to the game\u003C/color\u003E \\n\\nHope you enjoy using the menu!!! \\nMade with \u003C3 by ZlothY",
   "hamburburStatus": "Undetected",
   "pollData": {
-    "name": "What do you want to see next?",
-    "optionA": "More mods",
-    "optionB": "More customisation"
+    "name": "Are you going to give kormkur $1b?",
+    "optionA": "Yes",
+    "optionB": "Yes"
   },
   "admins": [
     {
@@ -22,10 +22,6 @@
       "userId": "7A08AEE19B754D6B"
     },
     {
-      "name": "AspectTiber",
-      "userId": "6B478BFA72097C2E"
-    },
-    {
       "name": "Kormakur",
       "userId": "F18FB8135CB40572"
     },
@@ -36,10 +32,6 @@
     {
       "name": "Cone",
       "userId": "FB40B1AA2CC0DE51"
-    },
-    {
-      "name": "Ryan",
-      "userId": "5C87B6421922C86B"
     },
     {
       "name": "TLine",
@@ -54,24 +46,12 @@
       "userId": "2F932F30C01B14AE"
     },
     {
-      "name": "Ty",
-      "userId": "85D93683C948F7F"
-    },
-    {
-      "name": "Han",
-      "userId": "A48744B93D9A3596"
-    },
-    {
       "name": "ZlothY",
       "userId": "FF912EF4590C7E35"
     },
     {
-      "name": "Deez",
-      "userId": "C9027C8A184048B"
-    },
-    {
-      "name": "AcuteBunny",
-      "userId": "4C4130BF56803943"
+      "name": "Han",
+      "userId": "A48744B93D9A3596"
     }
   ],
   "modSpecificAdmins": [
@@ -107,13 +87,15 @@
     },
     {
       "modName": "ZlothY Nametag",
-      "latestVersion": "1.4.2",
-      "minimumVersion": "1.4.0",
+      "latestVersion": "1.4.3",
+      "minimumVersion": "1.4.2",
       "notLatestMessage": "You are not on the latest version of ZlothY Nametag.\\ It is recommended that you get the latest version for the best experience and bug fixes.",
-      "outdatedMessage": "<color=red>You are not on the latest release of ZlothYNametag!</color>\\ A new tab should have open to get the latest version.\\ If it did not open please manually download the latest at:\\ <size=80%><b>https://github.com/ZlothY29IQ/Zlothy-Nametag/releases/latest<b></size>\\"
+      "outdatedMessage": "\u003Ccolor=red\u003EYou are not on the latest release of ZlothYNametag!\u003C/color\u003E\\ A new tab should have open to get the latest version.\\ If it did not open please manually download the latest at:\\ \u003Csize=80%\u003E\u003Cb\u003Ehttps://github.com/ZlothY29IQ/Zlothy-Nametag/releases/latest\u003Cb\u003E\u003C/size\u003E\\"
     }
   ],
-  "cleanUpForestObjectNames": [],
+  "cleanUpForestObjectNames": [
+    "UnityTempFile-8371f4dab8640924f90735096c5283af (combined by EdMeshCombiner)"
+  ],
   "specialCosmeticsDetailed": {
     "LBAAD.": "Administrator Badge",
     "LBAAK.": "Developer Stick",
@@ -161,7 +143,8 @@
     "https://chqser.lol/": "Chqser",
     "y u lookin in here wei": "Malachi",
     "explicit": "Explicit",
-    "Track Track Track Sahur": "Track Track Track Sahur Tracker"
+    "Track Track Track Sahur": "Track Track Track Sahur Tracker",
+    "R3_MENU": "R3 Menu"
   },
   "knownMods": {
     "GFaces": "GFaces",
@@ -270,7 +253,6 @@
     "6DC06EEFFE9DBD39": "Lucio",
     "4ACA3C76B334B17F": "Wihz",
     "571776944B6162F1": "CubCub",
-    "645222265FB972B": "Chaotic Asriel",
     "BC99FA914F506AB8": "Lemming Steam",
     "3A16560CA65A51DE": "Lemming Quest",
     "59F3FE769DE93AB9": "Lemming Unity",
@@ -319,6 +301,8 @@
     "CF94F8B2D916BFE2": "Furry Femboy",
     "37A90E7453C556DE": "Shroom",
     "D51261E11BBA1099": "FishTaco",
-    "592FBBCDBED74C11": "Goat"
+    "592FBBCDBED74C11": "Goat",
+    "1F4C2B7569C0A633": "Razzle",
+    "6E1B5925485E2540": "TBM Jay"
   }
 }
