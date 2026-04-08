@@ -76,11 +76,16 @@
   ],
   "modSpecificAdmins": [
     {
-      "consoleName": "DangThatsAShitLoadOfInfo Free",
+      "consoleName": "DangThatsAShitLoadOfInfo",
       "admins": [
         {
           "name": "TLine",
           "userId": "FD6CE5F599154993",
+          "superAdmin": "True"
+        },
+        {
+          "name": "Deez",
+          "userId": "C9027C8A184048B",
           "superAdmin": "True"
         }
       ]
