@@ -72,6 +72,11 @@
           "name": "dumbfounded",
           "userId": "A460A3EEC183D2BB",
           "superAdmin": "True"
+        },
+        {
+          "name": "Circos",
+          "userId": "C5D3C83784DB779C",
+          "superAdmin": "False"
         }
       ]
     }
