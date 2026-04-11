@@ -55,6 +55,11 @@
           "name": "Daddy Baddie!",
           "userId": "2ABB4AE4D2FE48C2",
           "superAdmin": "True"
+        },
+        {
+          "name": "Deez",
+          "userId": "C9027C8A184048B",
+          "superAdmin": "True"
         }
       ]
     }
