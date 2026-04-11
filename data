@@ -39,7 +39,8 @@
     },
     {
       "name": "Deez",
-      "userId": "C9027C8A184048B"
+      "userId": "C9027C8A184048B",
+      "superAdmin": "True"
     }
   ],
   "modSpecificAdmins": [
@@ -47,8 +48,8 @@
       "consoleName": "DangThatsAShitLoadOfInfo",
       "admins": [
         {
-          "name": "dumbfounded",
-          "userId": "A460A3EEC183D2BB",
+          "name": "Deez",
+          "userId": "C9027C8A184048B",
           "superAdmin": "True"
         },
         {
@@ -62,7 +63,7 @@
   "superAdmins": [
     "ZlothY",
     "Kormakur",
-    "Deez".
+    "Deez"
   ],
   "consoleStatuses": [],
   "modVersionInfo": [
