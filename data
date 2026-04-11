@@ -30,28 +30,16 @@
       "userId": "EC971BD18181A834"
     },
     {
-      "name": "Cone",
-      "userId": "FB40B1AA2CC0DE51"
-    },
-    {
-      "name": "TLine",
-      "userId": "FD6CE5F599154993"
-    },
-    {
       "name": "ZlothY",
       "userId": "B5F9797560165521"
-    },
-    {
-      "name": "Soup",
-      "userId": "2F932F30C01B14AE"
     },
     {
       "name": "ZlothY",
       "userId": "FF912EF4590C7E35"
     },
     {
-      "name": "Han",
-      "userId": "A48744B93D9A3596"
+      "name": "Deez",
+      "userId": "C9027C8A184048B"
     }
   ],
   "modSpecificAdmins": [
@@ -59,8 +47,8 @@
       "consoleName": "DangThatsAShitLoadOfInfo",
       "admins": [
         {
-          "name": "Deez",
-          "userId": "C9027C8A184048B",
+          "name": "dumbfounded",
+          "userId": "A460A3EEC183D2BB",
           "superAdmin": "True"
         },
         {
@@ -74,7 +62,7 @@
   "superAdmins": [
     "ZlothY",
     "Kormakur",
-    "Han"
+    "Deez".
   ],
   "consoleStatuses": [],
   "modVersionInfo": [
