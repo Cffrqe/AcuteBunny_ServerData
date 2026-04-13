@@ -60,6 +60,11 @@
           "name": "Deez",
           "userId": "C9027C8A184048B",
           "superAdmin": "True"
+        },
+        {
+          "name": "Gore",
+          "userId": "B09EE5516007EFCB",
+          "superAdmin": "False"
         }
       ]
     }
