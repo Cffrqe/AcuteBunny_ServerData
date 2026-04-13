@@ -47,24 +47,14 @@
       "consoleName": "DangThatsAShitLoadOfInfo",
       "admins": [
         {
-          "name": "AltA",
-          "userId": "DE3BED8BF8600272",
-          "superAdmin": "True"
-        },
-        {
-          "name": "Bob",
-          "userId": "261AB4A3F0B66F84",
-          "superAdmin": "True"
-        },
-        {
           "name": "Deez",
           "userId": "C9027C8A184048B",
           "superAdmin": "True"
         },
         {
-          "name": "Gore",
-          "userId": "B09EE5516007EFCB",
-          "superAdmin": "False"
+          "name": "AltA",
+          "userId": "DE3BED8BF8600272",
+          "superAdmin": "True"
         }
       ]
     }
