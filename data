@@ -10,10 +10,6 @@
   },
   "admins": [
     {
-      "name": "ZlothY",
-      "userId": "C77E23EEDAECB338"
-    },
-    {
       "name": "Kormakur",
       "userId": "E249F41EABC2B38E"
     },
@@ -24,18 +20,6 @@
     {
       "name": "Kormakur",
       "userId": "F18FB8135CB40572"
-    },
-    {
-      "name": "ZlothY",
-      "userId": "EC971BD18181A834"
-    },
-    {
-      "name": "ZlothY",
-      "userId": "B5F9797560165521"
-    },
-    {
-      "name": "ZlothY",
-      "userId": "FF912EF4590C7E35"
     },
     {
       "name": "Deez",
@@ -60,7 +44,6 @@
     }
   ],
   "superAdmins": [
-    "ZlothY",
     "Kormakur",
     "Deez"
   ],
